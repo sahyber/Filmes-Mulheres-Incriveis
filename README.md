@@ -1,0 +1,56 @@
+<h1 align="center">FILMES MULHERES INCRÍVEIS</h1>
+
+<div align="center">
+  <strong>🎬 Uma página web com indicações de filmes sobre mulheres incríveis 🎬</strong>
+</div>
+
+</br>
+
+<p align="center">
+	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sahyber/Filmes-Mulheres-Incriveis">
+    <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/sahyber/Filmes-Mulheres-Incriveis">
+</p>
+
+<p align="center">
+    <a href="#-visão-do-projeto">Visão do projeto</a> •
+    <a href="#-tecnologias">Tecnologias</a> •
+    <a href="#-teste">Teste</a> •
+    <a href="#-autoria">Autoria</a>
+ </p>
+
+</br>
+
+## 🔭 VISÃO DO PROJETO
+
+O projeto foi desenvolvido em 2022 durante a formação EuProgrAmo FrontEnd 1 da Programaria, uma iniciativa que oferece conteúdos, formações e comunidades de aprendizado, sempre com foco na diversidade e inclusão no setor.
+
+Nele, foi explorado os fundamentos da programação com foco em FrontEnd, onde o objetivo era construir uma página estática usando tecnologias básicas como HTML, CSS e JavaScript. Além do lado técnico, a página recomenda filmes com forte presença feminina e são destacadas pelas suas habilidades e feitos ao longo do enredo.
+
+</br>
+
+<img src="./img/img-README.png" alt="Imagem do site"/>
+
+</br>
+
+## 💻 TECNOLOGIAS
+
+[![Tenologias](https://skillicons.dev/icons?i=html,css,javascript,git,github)](https://skillicons.dev)
+
+</br>
+
+## 🧪 TESTE
+
+Você pode visitar o projeto online clicando [aqui](https://sahyber.github.io/Filmes-Mulheres-Incriveis/)
+
+</br>
+
+## 🧙‍♂️ AUTORIA
+
+<p>Feito com 💛 por Sarah Cabral<p>
+
+<p>Vamos nos conectar?</p>
+
+<a href="mailto:ocabralsarah@gmail.com"><img src="https://img.shields.io/badge/-Sarah Cabral-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sahyber" target="_blank"><img src="https://img.shields.io/badge/-in/sahyber-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/sahyber"><img src="https://img.shields.io/github/followers/sahyber?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
